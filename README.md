@@ -8,7 +8,7 @@ A Windows Forms application built with C# and .NET Framework
     * Recursive search content within files in selected dir
     * Powered by Lucene.NET for fast indexing & searching
     * Supports line by line indexing for plain text files
-    * Additional content extraction for Docx and PDF documents.
+    * Additional content extraction for Docx, DOC (Word 97-2003), and PDF documents.
     
 * Search Options:
     * Case sensitive mode
@@ -39,6 +39,7 @@ A Windows Forms application built with C# and .NET Framework
 
 * Document Parsing:
     * DocumentFormat.OpenXml (for DOCX)
+    * **NPOI (for DOC - Word 97-2003 files)**
     * PdfPig (for PDF)
     
 * JSON Parsing: Newtonsoft.Json (for OpenWeatherMap API response)
@@ -50,7 +51,7 @@ A Windows Forms application built with C# and .NET Framework
 
 1.  Clone the Repository:
     ```bash
-    git clone https://github.com/Dialovos/CS2_Final.git
+    git clone [https://github.com/Dialovos/CS2Final.git](https://github.com/Dialovos/CS2_Final.git)
     cd CS2_Final
     ```
 
@@ -71,9 +72,3 @@ A Windows Forms application built with C# and .NET Framework
         
 5.  Build the Solution:
     In Visual Studio, go to `Build` -> `Rebuild Solution`.
- 
-6.  Run the Application:
-
-## License (not included yet)
-
-This project is licensed under the [MIT License](LICENSE.md).
