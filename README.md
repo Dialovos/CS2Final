@@ -52,7 +52,7 @@ A Windows Forms application built with C# and .NET Framework
 1.  Clone the Repository:
     ```bash
     git clone [https://github.com/Dialovos/CS2Final.git](https://github.com/Dialovos/CS2_Final.git)
-    cd CS2_Final
+    cd CS2Final
     ```
 
 2.  Open in Visual Studio:
