@@ -1,6 +1,7 @@
 ﻿# File Search & Weather
 
 A Windows Forms application built with C# and .NET Framework
+Semester Project in spring 2025
 
 ## Features
 
